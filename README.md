@@ -1,0 +1,1 @@
+boilplate for start a project with static link lib and unit test
